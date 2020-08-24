@@ -1,0 +1,4 @@
+#README
+
+This code will ask user for what location from the given data they would like to lookup. 
+It uses a function that creates a dictionary from the given data and displays it according to what the user wants to lookup. 
